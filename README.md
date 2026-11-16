@@ -10,10 +10,10 @@ The project combines architectural modelling, structural design coordination, ME
 
 ### 1. Architectural BIM
 
-Architectural 3D modelling in Autodesk Revit.
-Development of building components and door families.
-Parametric hotel room door family with editable room numbers.
-AI-assisted exterior visualization using Gemini.
+Architectural 3D modelling in Autodesk Revit. | 
+Development of building components and door families. | 
+Parametric hotel room door family with editable room numbers. | 
+AI-assisted exterior visualization using Gemini. | 
 <img width="1357" height="768" alt="Gemini_Generated_Image_3yll4w3yll4w3yll" src="https://github.com/user-attachments/assets/3676a5f3-2f3e-4150-8c7d-721eb2f0de1d" />
 
 
