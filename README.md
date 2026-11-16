@@ -68,7 +68,8 @@ Developed a reusable hotel room door family in Autodesk Revit 2021 with an edita
 - Custom door design with a wood finish and decorative details.
 
 **Workflow:** Edit Room Number → Update Parameter → Door Display Updates Automatically.
-<img width="3704" height="960" alt="door_room_number_workflow" src="https://github.com/user-attachments/assets/4a8ca3b2-3950-44dd-968b-ee3a0949fe04" />
+<img width="3407" height="1020" alt="door_room_number_workflow_v2" src="https://github.com/user-attachments/assets/6fd31043-98c7-46fe-82a0-d8def0bc20f0" />
+
 
 **Software:** Autodesk Revit 2021
 
@@ -83,6 +84,8 @@ As part of the Hotel Blue Ridge project, I worked on the structural analysis wor
 4. Verified structural geometry, column and beam connectivity, and section properties.
 5. Reviewed material properties and structural supports.
 6. Prepared the model for structural loading and analysis.
+   <img width="1917" height="1040" alt="Screenshot 2026-11-14 085608" src="https://github.com/user-attachments/assets/695eb0bc-43f5-43d6-bc1d-db9fe6b80290" />
+
 
 ### Software Used
 - Autodesk Revit 2021
