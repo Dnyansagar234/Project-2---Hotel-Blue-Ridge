@@ -13,58 +13,48 @@ The project combines architectural modelling, structural design coordination, ME
 Architectural 3D modelling in Autodesk Revit. | 
 Development of building components and door families. | 
 Parametric hotel room door family with editable room numbers. | 
-AI-assisted exterior visualization using Gemini. | 
+AI-assisted exterior visualization using Gemini. 
 <img width="1357" height="768" alt="Gemini_Generated_Image_3yll4w3yll4w3yll" src="https://github.com/user-attachments/assets/3676a5f3-2f3e-4150-8c7d-721eb2f0de1d" />
 
 
 ### 2. Structural BIM
 
-Structural framing and reinforcement modelling.
-IFC-based structural model exchange from Revit to ETABS.
-Structural model setup and analysis workflow in ETABS.
+Structural framing and reinforcement modelling. | 
+IFC-based structural model exchange from Revit to ETABS. | 
+Structural model setup and analysis workflow in ETABS. | 
 Reinforcement detailing and section development.
+<img width="2000" height="1577" alt="combined_framing_sections_v2" src="https://github.com/user-attachments/assets/1fe1a772-f9e7-457f-8cb3-7ed2436337e4" />
 
 
 ### 3. MEP BIM
 
-Mechanical, Electrical and Plumbing modelling.
-
-Integration with the architectural and structural model.
-
-MEP coordination – Work in Progress.
+Mechanical, Electrical and Plumbing modelling. | 
+Integration with the architectural and structural model. | 
+MEP coordination – Work in Progress. 
 
 ### 4. BIM Coordination
 
-Model coordination using Autodesk Navisworks Manage.
-
-Clash detection and review of coordination results.
-
+Model coordination using Autodesk Navisworks Manage. | 
+Clash detection and review of coordination results. | 
 Multidisciplinary model integration.
+<img width="1917" height="1035" alt="Screenshot 2026-11-13 172345" src="https://github.com/user-attachments/assets/ad4d36d6-3edc-4080-9cb4-5bb15fba0ba9" />
+
 
 ## 🛠️ Software & Technologies
 
-Autodesk Revit 2021
-
-ETABS Ultimate 18.1.1
-
-Autodesk Navisworks Manage 2020
-
-IFC Model Exchange
-
+Autodesk Revit 2021 | 
+ETABS Ultimate 18.1.1 | 
+Autodesk Navisworks Manage 2020 | 
+IFC Model Exchange | 
 Gemini AI
 
 ## 🎯 Project Objectives
 
-Develop coordinated Architectural, Structural and MEP models.
-
-Understand multidisciplinary BIM workflows.
-
-Explore IFC-based structural analysis workflows.
-
-Create reusable parametric Revit families.
-
-Improve model coordination and clash detection.
-
+Develop coordinated Architectural, Structural and MEP models. | 
+Understand multidisciplinary BIM workflows. | 
+Explore IFC-based structural analysis workflows. | 
+Create reusable parametric Revit families. | 
+Improve model coordination and clash detection. | 
 Develop detailed drawings and quantity take-offs.
 
 ## 🚪 Parametric Hotel Room Door Family – Revit
@@ -78,6 +68,7 @@ Developed a reusable hotel room door family in Autodesk Revit 2021 with an edita
 - Custom door design with a wood finish and decorative details.
 
 **Workflow:** Edit Room Number → Update Parameter → Door Display Updates Automatically.
+<img width="3704" height="960" alt="door_room_number_workflow" src="https://github.com/user-attachments/assets/4a8ca3b2-3950-44dd-968b-ee3a0949fe04" />
 
 **Software:** Autodesk Revit 2021
 
