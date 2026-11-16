@@ -70,7 +70,6 @@ Developed a reusable hotel room door family in Autodesk Revit 2021 with an edita
 **Workflow:** Edit Room Number → Update Parameter → Door Display Updates Automatically.
 <img width="3407" height="1020" alt="door_room_number_workflow_v2" src="https://github.com/user-attachments/assets/6fd31043-98c7-46fe-82a0-d8def0bc20f0" />
 
-
 **Software:** Autodesk Revit 2021
 
 ## 🏗️ Structural Analysis – ETABS Using IFC Model
@@ -97,6 +96,30 @@ As part of the Hotel Blue Ridge project, I worked on the structural analysis wor
 - Revit-to-ETABS structural workflow.
 - Structural model verification.
 - Understanding of structural analysis model preparation.
+
+  ## 3D Project Viewer
+Explore the complete 3D bungalow model through Autodesk Viewer:
+
+https://autode.sk/4iMrI0F
+
+### How to use the viewer
+
+1. Click the link above. It opens in your web browser, and no software install is needed.
+2. If you are asked to sign in, use a free Autodesk account.
+3. Wait a few seconds for the model to load.
+
+| Action | How |
+|--------|-----|
+| Rotate (orbit) | Left-click and drag |
+| Pan | Hold the middle mouse button, or Shift + left-click, and drag |
+| Zoom | Scroll the mouse wheel |
+| Reset the view | Click the **Home** icon |
+| Hide or isolate parts | Open the **Model Browser**, then right-click an item |
+| Check dimensions | Use the **Measure** tool in the toolbar |
+| Cut through the model | Use the **Section** tool |
+| Separate the parts | Use the **Explode** tool |
+
+On a phone or tablet, use one finger to rotate and two fingers to pan and zoom.
 
 ## 🚧 Project Status: Work in Progress
 
